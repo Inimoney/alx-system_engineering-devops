@@ -1,7 +1,0 @@
-<<<<<<< HEAD
- #!/bin/bash
-chmod ugo+x hello
-=======
-#!/bin/bash
-chmd ugo+x hello
->>>>>>> parent of 0ba8ec4... everybody
